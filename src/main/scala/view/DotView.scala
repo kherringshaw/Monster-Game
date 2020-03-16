@@ -21,7 +21,7 @@ import model._
  * @param attrs
  * @param defStyle
  *
- * @author <a href="mailto:android@callmeike.net">Blake Meike</a>
+ * 
  */
 class DotView(context: Context, attrs: AttributeSet, defStyle: Int) extends View(context, attrs, defStyle) {
 
